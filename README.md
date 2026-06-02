@@ -1,6 +1,5 @@
 # HW4 — Image Restoration with PromptIR
 
-**Visual Recognition using Deep Learning, Spring 2026**
 **Student ID**: 111550005
 
 ## Introduction
