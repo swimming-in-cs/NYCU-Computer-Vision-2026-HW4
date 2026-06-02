@@ -97,6 +97,7 @@ python infer.py ... --no_tta
 | + 8-fold TTA | 120 | **29.68** |
 
 > Best public leaderboard score: **29.68 dB**
+![Leaderboard score](photo/score.png)
 
 ## Learning Curve
 
