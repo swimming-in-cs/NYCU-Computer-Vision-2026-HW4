@@ -100,7 +100,7 @@ python infer.py ... --no_tta
 
 ## Learning Curve
 
-![Learning Curve](assets/learning_curve.png)
+![Learning Curve](photo/learning_curve.png)
 
 ## References
 
